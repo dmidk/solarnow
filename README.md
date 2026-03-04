@@ -2,7 +2,6 @@
 
 Scientific development framework for solar irradiance nowcasting at the [Danish Meteorological Institute (DMI)](https://www.dmi.dk).
 
-This project is developed in collaboration with [ENFOR](https://enfor.dk).
 
 ## Overview
 
@@ -59,6 +58,3 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-Developed at DMI in collaboration with ENFOR.
